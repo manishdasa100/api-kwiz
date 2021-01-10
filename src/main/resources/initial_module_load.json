@@ -1,0 +1,32 @@
+[
+    {
+        "moduleTitle":"Java Advanced",
+        "moduleDescription":"Java advanced questions",
+        "avgDuration":25
+    },
+    {
+        "moduleTitle":"Java Basics",
+        "moduleDescription":"Java basics questions",
+        "avgDuration":20
+    },
+    {
+        "moduleTitle":"Python Basics",
+        "moduleDescription":"Python basics questions",
+        "avgDuration":30
+    },
+    {
+        "moduleTitle":"Python Advanced",
+        "moduleDescription":"Python advance questions",
+        "avgDuration":25
+    },
+    {
+        "moduleTitle":"Spring boot Basics",
+        "moduleDescription":"Spring boot basics questions",
+        "avgDuration":20
+    },
+    {
+        "moduleTitle":"SQL Basics",
+        "moduleDescription":"SQL basics questions",
+        "avgDuration":30
+    }
+]
